@@ -1,0 +1,49 @@
+body{
+    height: 100vh;
+}
+.container{
+    margin-top: 20px;
+}
+.col-3{
+    background-color: seagreen;
+}
+.content{
+    margin: 30px;
+}
+.content .wrapper{
+    font-weight: 600;
+}
+.col-3 img{
+    width: 150px;
+    height: 150px;
+    margin-top: 10px;
+}
+.col-3 h4{
+    border-bottom: 2px solid gray;
+}
+.col-3 h5{
+    font-weight: lighter;
+    font-size: 15px;
+}
+.col-3 li{
+    font-weight: lighter;
+    font-size: 15px;
+}
+.content1{
+    text-align: center;
+}
+.content1 .span{
+    font-weight: 400;
+}
+.col-5 h4{
+    border-bottom: 2px solid gray;
+}
+.col-5 h5{
+    font-weight: lighter;
+}
+.col-5 .wrapper{
+    font-weight: 600;
+}
+.col-5 p{
+    text-align: justify;
+}
